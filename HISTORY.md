@@ -1,5 +1,9 @@
 # History
 
+# 7.1.1
+
+- Updates node-fetch to ~2.7.0
+
 # 7.1.0
 
 - Updates whatwg-fetch to 3.5.0 to address an issue with IE11.
